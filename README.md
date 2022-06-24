@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @euphorbia-io
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Euphorbia Limited <img src="https://euphorbia.io/img/euphorbia-carbon-token-logo.png" height="30">
 
-<!---
-euphorbia-io/euphorbia-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hybrid Blockchain technology company focused on tokenizing Nature Based Solutions, linking New Zealand official carbon credits to Euphorbia Tokens (EUPNZU)
+
